@@ -1,16 +1,24 @@
+# NNNN — [Decision Title]
+**Date:** YYYY-MM-DD
+**Status:** Proposed / Accepted / Superseded by NNNN
+**Decided by:** [Names]
 
-# Decision Log
+## Context
+_2–3 sentences. What was the situation that forced a decision._
 
-Every meaningful decision goes here. Format is one file per decision (`NNNN-short-title.md`).
-Keep them short. Future-you needs to know what was decided and why, not read an essay.
+## Options considered
+1. **Option A:** [brief]. Pros / cons.
+2. **Option B:** [brief]. Pros / cons.
+3. **Option C:** [brief]. Pros / cons.
 
-## Why this exists
-- Stakeholders will ask "why did we pick X" in Week 8. You will not remember.
-- When scope creep starts, you point at the relevant decision and say "we already decided this."
-- For your senior-role positioning: a clean decision log is direct evidence of structured technical leadership.
+## Decision
+_What we picked. One paragraph max._
 
-## Template
-See `_TEMPLATE.md` in this folder.
+## Why
+_The honest reason. Not the polished one._
 
-## Index
-- 0001 — [decision title] — [date] — [status: proposed/accepted/superseded]
+## What this closes
+_What conversations / debates does this end. Be explicit so we can point at it later._
+
+## What this leaves open
+_What decisions still need to be made downstream._
