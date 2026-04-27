@@ -1,28 +1,30 @@
-# Meeting: [Title]
-**Date:** YYYY-MM-DD
-**Type:** Kickoff / Weekly sync / Stakeholder / 1:1 / Decision review
-**Attendees:** [Names]
+# Weekly Review — Week of YYYY-MM-DD
 
-## Purpose
-_One line. What was this meeting actually for._
+## Week status
+Roadmap week: [N]
+Overall: 🟢 / 🟡 / 🔴
 
-## What was discussed
-- Bullet
-- Bullet
+## What got done
+-
 
-## Decisions made
-- [ ] Decision: [what]. Owner: [who]. Logged in `decisions/` ? Y/N
+## What didn't, and why
+_Honest. No spin._
+-
 
-## Actions
-- [ ] [Action] — Owner: [Name] — Due: [Date]
-- [ ] [Action] — Owner: [Name] — Due: [Date]
+## What I noticed
+_Team dynamics, stakeholder signals, things between the lines._
 
-## What was NOT resolved
-_The honest list. What got deferred, parked, or quietly dropped._
+## Decisions made this week
+- [ref to decisions/NNNN]
 
-## My read (private notes)
-_What I noticed but didn't say. Tensions, signals, things to follow up on offline._
+## Risks moved
+- R[N]: [movement]
 
-## Next meeting
-- When:
-- Topic:
+## Next week
+- Top 3 priorities:
+  1.
+  2.
+  3.
+
+## My bandwidth check
+_How much of me did this POC actually consume vs. plan? What gave way?_
